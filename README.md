@@ -17,7 +17,8 @@ A small, static HTML/CSS demo storefront built for learning and quick prototypin
 - `cart.html` — Cart summary and totals.  
 - `account.html` — Login / registration UI (static).  
 - `style.css` — Global styles and responsive layout.  
-- `images/` — Local images used by the site.  
+- `images/` — Local images used by the site. 
+- `website video.mp4/` — website working video.  
 
 (See files: [index.html](index.html), [products.html](products.html), [product-detail.html](product-detail.html), [cart.html](cart.html), [account.html](account.html), [style.css](style.css), [images/](images/))
 
