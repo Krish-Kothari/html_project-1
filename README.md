@@ -22,8 +22,8 @@ A small, static HTML/CSS demo storefront built for learning and quick prototypin
 (See files: [index.html](index.html), [products.html](products.html), [product-detail.html](product-detail.html), [cart.html](cart.html), [account.html](account.html), [style.css](style.css), [images/](images/))
 
 ## How to view
-1. Open `index.html` in your browser.  
-2. For live reload while developing, use VS Code Live Server or any static file server:
+1. Open `index.html` in your browser.  https://html-project-1-xi.vercel.app/
+2. You can also use this link for viewing live website - 
+3. For live reload while developing, use VS Code Live Server or any static file server:
    - Live Server extension: right-click `index.html` → "Open with Live Server".
    - Or run a simple Python server: `python -m http.server` and open `http://localhost:8000`.
-
