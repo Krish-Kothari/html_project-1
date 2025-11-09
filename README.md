@@ -1,4 +1,3 @@
-// ...existing code...
 # ShopUp — Static E‑commerce Demo
 
 A small, static HTML/CSS demo storefront built for learning and quick prototyping. The project contains a simple homepage, product listing, product detail, cart and account pages with a responsive layout and basic styling.
