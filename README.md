@@ -18,9 +18,9 @@ A small, static HTML/CSS demo storefront built for learning and quick prototypin
 - `account.html` — Login / registration UI (static).  
 - `style.css` — Global styles and responsive layout.  
 - `images/` — Local images used by the site. 
-- `project demo.mp4/` — website demo working video.  
+- `project-demo.mp4/` — website demo working video.  
 
-(See files: [index.html](index.html), [products.html](products.html), [product-detail.html](product-detail.html), [cart.html](cart.html), [account.html](account.html), [style.css](style.css), [images/](images/))
+(See files: [index.html](index.html), [products.html](products.html), [product-detail.html](product-detail.html), [cart.html](cart.html), [account.html](account.html), [style.css](style.css), [images/](images/), [project-demo.mp4](project-demo.mp4))
 
 ## How to view
 1. Open `index.html` in your browser.  https://html-project-1-xi.vercel.app/
